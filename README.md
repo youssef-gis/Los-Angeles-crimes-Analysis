@@ -1,3 +1,5 @@
+[Los Angeles crimes Analysis Notebook]([https://website-name.com](https://nbviewer.org/github/youssef-gis/Los-Angeles-crimes-Analysis/blob/main/LA_crimes_analysis.ipynb)
+
 # Los-Angeles-crimes-Analysis
 Los Angeles; often glamorized as the City of Angels; is a sprawling metropolis known for its beaches, entertainment industry, and cultural diversity. But beneath the surface lies a complex web of urban challenges, one of which is crime.
 This project aims to analyze crime data from Los Angeles to identify patterns in criminal behavior. The insights derived from this analysis will help the Los Angeles Police Department (LAPD) allocate resources more effectively to address various crimes in different areas. The project leverages Python for data manipulation and visualization.
